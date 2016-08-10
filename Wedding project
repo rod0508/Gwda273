@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Todd&Sarah's weddiing</title>
+  <meta name= "viewport" content= "width-device-width">
+	<style> 
+	  body{
+      position: fixed fit-to-top;
+      font-size: 30px;
+	  	margin: 0; 
+		text-align: center;
+		font-family: minimal;
+		color: black;
+
+		}
+		h1{
+		   font-family: 'minimal', serif;
+		   text-shadow: 2px 2px 2px gold;
+		   transition: 1s all;
+		   font-size: 60px;
+		   color: white;
+       
+         }
+
+         h1:hover{
+         	font-size: 40px;
+         	
+         }
+         a{	
+
+         	color: white;
+         	text-decoration: none;
+         	transition: 1s all;
+      	
+	}
+	a:visited{
+		color: gold;
+
+	}
+	a:hover{
+		color: red;
+	}
+	#hero{
+      padding: 300px;
+      background:  url(http://i.imgur.com/Al5H1rA.jpg);
+      background-size: fit-to-page;
+      background-repeat: ;
+      background-attachment: fixed;            
+    }
+
+    #what-we-do{
+      padding: 15px;  
+    background: -webkit-linear-gradient(left top,black, red, black);
+      background-size: cover;
+      background-color: black;
+      outline-width: 2in;
+      outline-color: red;
+      padding: 15px;
+    }
+    h2{
+    background: red; /* For browsers that do not support gradients */    
+    background: -webkit-linear-gradient(top, white, gold);
+      padding: 15px;
+      background-size: cover;
+      background-color: black; 
+      outline-width: 2in;
+      outline-color: red;
+      padding: 15px;
+      overflow: hidden;
+
+    }
+    
+    #resume{
+      margin: 0 auto;
+      display: block;
+
+
+    }
+    nav{
+      position: left;
+      top: 50px;
+      right: 80px;
+      background-color: black;
+    }
+
+	</style>
+	</head>
+	<body>
+
+     <nav> 	
+     	<a href="#h1">Location</a> | <a href="#who-we-are">Groom & Bride</a> | <a href="#h1">Reception</a> | <a href="Portfolio.html">Attire</a> | <a href="#Social Media">Gallery</a>  
+  </nav>
+<section id="hero">
+<h1> David & Melanie's Wedding</h1>
+<h2>Welcome</h2>
+<h3> December 19, 2017</h3>
+
+<p>Todd Masterson, Sarah Sanderson and Michael Stevens
+invite you to celebrate
+the marriage of their parents
+Melanie Elizabeth Masterson
+and
+David Sanderson Stevens
+Saturday, the fifth of June
+two thousand nineteen
+at 4PM
+Fox Run
+Lander, Wyoming <br>
+Reception to follow </p><br>
+
+
